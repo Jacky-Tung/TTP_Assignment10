@@ -1,0 +1,26 @@
+{
+  "name": "ttp_assignment10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacky-Tung/TTP_Assignment10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacky-Tung/TTP_Assignment10/issues"
+  },
+  "homepage": "https://github.com/Jacky-Tung/TTP_Assignment10#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pg": "^8.11.1"
+  }
+}
